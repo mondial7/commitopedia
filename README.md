@@ -11,7 +11,6 @@ Emoji | Code | 📚
 🎨 | `:art:` | refactoring
 📚 | `:books:` | docs
 👻 | `:ghost:` |  👻👻👻👻👻👻
-🌊 | `:ocean:` | knopfy & proud
 🐢 | `:turtle:` | testing
 💀 | `:skull:` | not tested
 🐾 | `:feet:` | set up
@@ -22,7 +21,10 @@ Emoji | Code | 📚
 🐙 | `:octopus:` | draft
 🐛 | `:bug:` | bug 
 🌚 | `:new_moon_with_face:` | use only for sarcasm
-🍷 | `:wine_glass:` | brilluz was here
 😕 | `:confused:` | not sure about it
+🚕 | `:taxi:` | need a ride home?
+👻 | `:ghost:` |  👻👻👻👻👻👻
+🌊 | `:ocean:` | knopfy & proud
+🍷 | `:wine_glass:` | brilluz was here
 ✈️ | `:airplane:` | fra's high
 🍓 | `:strawberry:` | Geri's stuff
